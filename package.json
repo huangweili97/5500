@@ -1,0 +1,19 @@
+{
+  "name": "learn-user-stories",
+  "version": "1.0.0",
+  "description": "User Stories Tutorial",
+  "main": "index.js",
+  "scripts": {
+    "start": "ts-node ./src/bank.ts",
+    "test": "ts-node ./tests/bankTests.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.5.4"
+  },
+  "dependencies": {
+    "ts-node": "^10.9.2"
+  }
+}

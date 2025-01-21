@@ -17,8 +17,6 @@ node -v
 npm -v
 
 
-
-
 ## **Run Tests**
 To execute the test suite, use the following command:
 
