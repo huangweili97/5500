@@ -17,10 +17,6 @@ node -v
 npm -v
 
 
-## **Setup Instructions**
-Clone the repository to your local machine:
-git clone https://github.com/CSE-316-Software-Development/learn-user-stories.git
-
 
 
 ## **Run Tests**
