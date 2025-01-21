@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "module": "CommonJS",
+    "target": "ES6",
+    "strict": true,
+    "rootDir": "./bank-demo",
+    "outDir": "./dist"
+  },
+  "include": ["bank-demo/src/**/*", "bank-demo/tests/**/*"],
+  "exclude": ["node_modules"]
+}
